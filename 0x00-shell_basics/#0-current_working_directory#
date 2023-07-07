@@ -1,4 +1,4 @@
-/root/alx-system_engineering-devops/0x00-shell_basics
+#!/bin/bash
 pwd
 C-x C-s
 0-current_working_directory
